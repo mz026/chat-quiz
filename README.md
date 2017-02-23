@@ -16,4 +16,5 @@
 
 Create an API so that:
 
-An user can query the message thread with a certain user
+1. An user can query the message thread with a certain user
+2. An user can query the chat list with the latest message of each chatroom
